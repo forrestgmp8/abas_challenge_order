@@ -11,3 +11,4 @@ Ayrıca, her bir malın hangi siparişlerde kaç adet bulunduğunu listeleyen fo
 ###### Ortalama Fiyat
 ###### Ürün Başına Ortalama Fiyat
 ###### Sipariş Başına Ürün Sayısı
+değerlerini göstermektedir.
